@@ -600,6 +600,9 @@
         .for-devs .container {
             flex-direction: column-reverse;
         }
+        .for-companies .container {
+            flex-direction: column-reverse;
+        }
     }
 
     @media (max-width: 768px) {
@@ -624,3 +627,4 @@
             width: 100%;
         }
     }
+
